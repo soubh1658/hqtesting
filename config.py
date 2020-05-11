@@ -1,1 +1,1 @@
-CHANNEL_ID = 536129638402097153 #hq-bot-answers-test 
+CHANNEL_ID = 705345180756082699 #hq-bot-answers-test 
