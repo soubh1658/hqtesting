@@ -51,5 +51,5 @@ class MessageBox:
         for i in range(min((len(answers), len(counts)))):
             embed.add_field(name=answers[i], value=counts[i], inline=False)
 
-        embed.set_footer(text='Made by FMolasses')
+        embed.set_footer(text='Made by .  🎀  𝑀𝓇.𝒮𝓉𝑒𝒶𝒻𝑒𝓃  🎀  . #2364')
         return embed
